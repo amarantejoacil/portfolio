@@ -18,7 +18,10 @@ nav {
 
 .destaque_texto {
     background-color: #fddd99;
+    border-radius: 5px;
+    padding: 2px;
 }
+
 
 .hero-background {
   text-align: center;
